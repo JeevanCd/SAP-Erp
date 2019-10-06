@@ -1,4 +1,4 @@
-title: Debuging SAP Scripts
+title: Debugging SAPscripts in SAP
 ---
 author: Jeevan Chand
 ---
@@ -29,13 +29,9 @@ Step 2:
 
 ![script1](script1.gif)
 
-
- 
 ---
-description: Debugging sapscripts in SAP
+description: How to debug SAP scripts
 ---
 pub_date: 2019-10-06
 ---
 tags: sapscripts
----
-twitter_handle: 
