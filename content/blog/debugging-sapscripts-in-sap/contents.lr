@@ -1,4 +1,4 @@
-title: Debugging SAPscripts in SAP
+title: Debuging SAP Scripts
 ---
 author: Jeevan Chand
 ---
@@ -13,7 +13,7 @@ Step 1:
     Go to Transaction SE38.
     Enter the program name RSTXDBUG
 
-![snap1](snap1.jpg)
+![snap1](snap1.png)
 
     Press Execute.
 
@@ -29,9 +29,16 @@ Step 2:
 
 ![script1](script1.gif)
 
----
-description: How to debug SAPscripts in SAP
+
 ---
 pub_date: 2019-10-06
 ---
-tags: sapscripts
+tags:
+
+sap 
+sapscript
+form
+---
+_discoverable: no
+---
+description: How to debug sapscript forms in SAP
