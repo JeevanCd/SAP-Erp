@@ -1,6 +1,6 @@
 [project]
 name = SAP-Erp
-url = https://jeevancd.github.io/
+url = https://jeevancd.github.io
 url_style = absolute
 
 
@@ -13,4 +13,4 @@ lektor-minify = 1.2
 lektor-atom = 0.3
 
 [servers.ghpages]
-target = ghpages+https://JeevanCd/SAP-Erp
+target = https://jeevancd.github.io
