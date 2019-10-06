@@ -13,4 +13,4 @@ lektor-minify = 1.2
 lektor-atom = 0.3
 
 [servers.ghpages]
-target = https://jeevancd.github.io
+target = ghpages+https://JeevanCd/
