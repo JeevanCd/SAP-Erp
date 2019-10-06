@@ -2,4 +2,48 @@ title: Projects
 ---
 body:
 
-# Test Page
+#My Projects
+* * * 
+####**S4 HANA** FSCM Implementation Project
+####ABAP ON HANA Developer (Oct 2018 - Present)
+* * *
+
+Developed CDS Views, including huge data selections and calculations from various database tables to improve performance.
+
+Developed Alert system for Business Partners breaching Credit Limit Expiry Date, Overall Credit Limit Expiry and Collateral Guarantees. (Part of Automation)
+
+Created Function Module which automatically cleans the unwanted Cases in Case Management whenever Alert Framework is triggered (Part of Automation).
+
+Developed a Dash-Board Program for Client, which Displays all the current status of Business Partners from their creation in S4 HANA which helps to check the Data consistency.
+
+Worked on Report which is used to upload as well as download the rating information of Business Partner if already exist, from external sources using CSV file format.
+
+Used Object-Oriented development approach which helps in maintaining quality and standard of code.
+
+Coordinated with functional team members to find the solution of various complex requirements with technical feasibility.
+* * *
+####Global Sales and Distribution (GSD)
+####SAP ABAP Developer (Feb 2018 – Sept 2018)
+* * * 
+
+Developed Sales Report, providing output details like sales order no., date, item, material no., material description, net price, ship to party, quantity delivered, sales unit, pending quantity, pending value based on sales order.
+
+Created Excise Invoice with Material Code & Description, Chapter id, Qty, Rate, Assemble Value, tax code like (BED, SHES, ENTRY TAX, FREIGHT, CGST, SGST & IGST) and shift-to-party and sold-to-party details using SMARTFORMS.
+
+Worked with support team, improving my debugging skills and required me to participate in release activity.
+* * *
+####OneHR Roll Outs
+####SAP ABAP HR Developer (Sept 2017 - Jan 2018)
+* * * 
+
+Implemented proxy interface which imports the data from Non-SAP systems and updates various Infotypes.
+
+Worked in various ALE-IDOC and PU12 interfaces.
+
+Helped team member on Impact Assessments of various programs.
+
+Responsible for effective one to one communication and report to seniors.
+
+Comply with the Quality guidelines of IBM while delivering objects.
+* * * 
+
