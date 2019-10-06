@@ -1,0 +1,34 @@
+title:
+
+ Login to SAP System
+---
+author: Jeevan Chand
+---
+body:
+
+
+First find the SAP icon on the desktop.  
+
+
+[//]: # (PLUGIN-READ-FULL-POST)
+
+![logintosap1_thumb](logintosap1_thumb.png)
+
+Double click on the SAP icon.
+
+![logintosap2_thumb](logintosap2_thumb.png)
+
+ On the logon pad select the system you want to login to and press log on button.
+
+![logintosap3_thumb](logintosap3_thumb.png)
+
+ Enter Client, User, password and press enter.
+
+![logintosap4_thumb](logintosap4_thumb.png)
+
+ This is SAP easy access screen. All the tools required by ABAP developer is under the node Tools.
+
+---
+description: How to Login in SAP
+---
+pub_date: 2019-10-06
