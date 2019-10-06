@@ -1,0 +1,46 @@
+title: Debuging SAP Scripts
+---
+author: Jeevan Chand
+---
+body:
+
+To activate SAP Script debugger:
+
+[//]: # (PLUGIN-READ-FULL-POST)
+
+Step 1:
+
+    Go to Transaction SE38.
+    Enter the program name RSTXDBUG
+
+![snap1](snap1.png)
+
+    Press Execute.
+
+![script1](script1.gif)
+
+Step 2:
+
+    Go to SE71.
+
+    In the initial screen, Enter the form name and click on Utilities --> Activate Debugger
+
+![script2](script2.jpg)
+
+![script1](script1.gif)
+
+
+---
+pub_date: 2019-10-06
+---
+tags:
+
+sap 
+sapscript
+form
+---
+_discoverable: no
+---
+description: How to debug sapscript forms in SAP
+---
+twitter_handle: jibu009
