@@ -1,6 +1,6 @@
 [project]
 name = SAP-Erp
-url = https://jeevancd.github.io/SAP-Erp/
+url = http://localhost
 url_style = absolute
 
 
